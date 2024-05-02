@@ -1,7 +1,8 @@
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/whonion/go-tonwallet-batchgen/blob/main/) [![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://google.github.io/styleguide/go/) [![Go version][go-badge]][go-url] [![go-report][go-report-badge]][go-report-url] [![Lint][lint-badge]][lint-url] [![Build & Test][build-badge]][build-url] [![Makefile][makefile-badge]][makefile-url] [![HitCount](https://hits.dwyl.com/whonion/go-tonwallet-batchgen.svg)](https://hits.dwyl.com/whonion/go-tonwallet-batchgen) [![Publish Release](https://github.com/whonion/go-tonwallet-batchgen/actions/workflows/release.yml/badge.svg)](https://github.com/whonion/go-tonwallet-batchgen/actions/workflows/release.yml) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwhonion%2Fgo-tonwallet-batchgen.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwhonion%2Fgo-tonwallet-batchgen?ref=badge_shield)</br>
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/whonion/go-tonwallet-batchgen/blob/main/) [![Code Style: Google](https://img.shields.io/badge/code%20style-google-blueviolet.svg)](https://google.github.io/styleguide/go/) [![Go version][go-badge]][go-url] [![go-report][go-report-badge]][go-report-url] [![Lint][lint-badge]][lint-url] [![Build & Test][build-badge]][build-url] [![Makefile][makefile-badge]][makefile-url]  [![HitCount](https://hits.dwyl.com/whonion/go-tonwallet-batchgen.svg)](https://hits.dwyl.com/whonion/go-tonwallet-batchgen) [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fwhonion%2Fgo-tonwallet-batchgen.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fwhonion%2Fgo-tonwallet-batchgen?ref=badge_shield)</br>
 ## Implementing V4R2 wallet creation for Ton network using Go</br>
 
-
+### Preview main.go<br>
+![go-solc-batch-deployer](https://github.com/whonion/go-tonwallet-batchgen/blob/main/.github/splash.gif?raw=true)
 ## Preparing for installation (`Linux`)
 ### 1. Update your server and setup needed tools
 ```sh
