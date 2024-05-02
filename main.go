@@ -74,19 +74,19 @@ func main() {
 
 			fmt.Println("Wallet address:", address)
 
-			block, err := api.CurrentMasterchainInfo(context.Background())
+			//block, err := api.CurrentMasterchainInfo(context.Background())
 			if err != nil {
 				log.Println("CurrentMasterchainInfo err:", err)
 				return
 			}
 
-			balance, err := w.GetBalance(context.Background(), block)
-			if err != nil {
-				log.Println("GetBalance err:", err)
-				return
-			}
+			// balance, err := w.GetBalance(context.Background(), block)
+			// if err != nil {
+			// 	log.Println("GetBalance err:", err)
+			// 	return
+			// }
 
-			fmt.Println("Balance:", balance)
+			// fmt.Println("Balance:", balance)
 		}()
 	}
 
